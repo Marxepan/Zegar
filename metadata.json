@@ -1,0 +1,5 @@
+{
+  "name": "React Timer",
+  "description": "A sleek and modern timer/stopwatch application built with React, TypeScript, and Tailwind CSS. It features start, stop, reset, and lap functionalities with a visually appealing dark mode interface.",
+  "requestFramePermissions": []
+}
